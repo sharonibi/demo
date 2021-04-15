@@ -1,0 +1,6 @@
+-* File: IBFS:/localhost/WFC/Repository/Public/プロシジャ6.fex Created by WebFOCUS AppStudio
+
+-SET &ECHO=ALL;
+
+-TYPE 'TEST' ： &TEST
+-TYPE 'TEST_TEXT' ：  &TEST_TEXT
